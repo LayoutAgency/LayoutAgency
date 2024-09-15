@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/LayoutAgency/static/css/main.3c3354ee.css",
-    "main.js": "/LayoutAgency/static/js/main.8f89ebfb.js",
+    "main.css": "/LayoutAgency/static/css/main.9704b11a.css",
+    "main.js": "/LayoutAgency/static/js/main.f5c71dc5.js",
     "static/media/fa-solid-900.ttf": "/LayoutAgency/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/4737427.jpg": "/LayoutAgency/static/media/4737427.d005de234180ed82937d.jpg",
     "static/media/mob.png": "/LayoutAgency/static/media/mob.afe48acea97ae719f153.png",
@@ -12,20 +12,21 @@
     "static/media/fa-solid-900.woff2": "/LayoutAgency/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
     "static/media/graphic.png": "/LayoutAgency/static/media/graphic.c4dcbae649061f70da25.png",
     "static/media/fa-brands-400.woff2": "/LayoutAgency/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
-    "static/media/photo__y.jpg": "/LayoutAgency/static/media/photo_5899900492258068399_y.6b11cce8ce863f209b11.jpg",
     "static/media/target.png": "/LayoutAgency/static/media/target.a2fca94a3aa0bf55f4aa.png",
+    "static/media/hero-bg-2.jpg": "/LayoutAgency/static/media/hero-bg-2.cf4020a52530d84542a8.jpg",
     "static/media/fa-regular-400.ttf": "/LayoutAgency/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
     "static/media/Asset 1.png": "/LayoutAgency/static/media/Asset 1.7a7a61ed3235301b0a8d.png",
+    "static/media/hero-img.png": "/LayoutAgency/static/media/hero-img.9161fb08f1015f2a5db0.png",
     "static/media/fa-regular-400.woff2": "/LayoutAgency/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
     "static/media/LOGO.png": "/LayoutAgency/static/media/LOGO.98e9062db280e1d4d1ff.png",
     "static/media/fa-v4compatibility.ttf": "/LayoutAgency/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/LayoutAgency/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/LayoutAgency/index.html",
-    "main.3c3354ee.css.map": "/LayoutAgency/static/css/main.3c3354ee.css.map",
-    "main.8f89ebfb.js.map": "/LayoutAgency/static/js/main.8f89ebfb.js.map"
+    "main.9704b11a.css.map": "/LayoutAgency/static/css/main.9704b11a.css.map",
+    "main.f5c71dc5.js.map": "/LayoutAgency/static/js/main.f5c71dc5.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c3354ee.css",
-    "static/js/main.8f89ebfb.js"
+    "static/css/main.9704b11a.css",
+    "static/js/main.f5c71dc5.js"
   ]
 }
